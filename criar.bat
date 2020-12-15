@@ -1,0 +1,10 @@
+echo  > 1040.c
+echo  > 1041.c
+echo  > 1042.c
+echo  > 1043.c
+echo  > 1044.c
+echo  > 1045.c
+echo  > 1046.c
+echo  > 1047.c
+echo  > 1048.c
+echo  > 1049.c
